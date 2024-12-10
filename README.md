@@ -1,6 +1,6 @@
 # WebScraping
 Cantelever labs projects.
-reference: https://docs.scrapy.org/en/2.11/intro/tutorial.html
+reference: https://docs.scrapy.org/en/2.11/intro/tutorial.html , https://github.com/scrapy/quotesbot
 
 1. create a new virtual environment using-> 
     conda activate scrapytutorial_env
