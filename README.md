@@ -10,3 +10,4 @@ reference: https://docs.scrapy.org/en/2.11/intro/tutorial.html , https://github.
 
 -> scrapy crawl quotes -O quotes.json
 That will generate a quotes.json file containing all scraped items, serialized in JSON.
+5. to deactivate conda use -> conda deactivate
