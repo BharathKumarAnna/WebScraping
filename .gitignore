@@ -1,0 +1,5 @@
+# Virtual environment
+# venv/
+scrapytutorial_env/
+*.pyc
+__pycache__/
